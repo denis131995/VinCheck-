@@ -1,0 +1,477 @@
+[
+  {
+    "WMI": "WA1",
+    "Name": "AUDI AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WAU",
+    "Name": "AUDI AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WUA",
+    "Name": "AUDI AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "JTD",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT1",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT2",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT3",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT4",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT5",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT6",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT7",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT8",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JT9",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "1NX",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2T1",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3T1",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4T1",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5T1",
+    "Name": "TOYOTA MOTOR CORPORATION",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "JTH",
+    "Name": "LEXUS",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "1L1",
+    "Name": "LEXUS",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2L1",
+    "Name": "LEXUS",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "1N4",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "JN1",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "2N1",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3N1",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4N1",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5N1",
+    "Name": "NISSAN MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1HG",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "JH4",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH2",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH3",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH5",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH6",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH7",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH8",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "JH9",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "JAPAN"
+  },
+  {
+    "WMI": "2HG",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3HG",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4HG",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5HG",
+    "Name": "HONDA MOTOR CO., LTD.",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "WBA",
+    "Name": "BMW AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WBS",
+    "Name": "BMW AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WBX",
+    "Name": "BMW AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WBY",
+    "Name": "BMW AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WBZ",
+    "Name": "BMW AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WDD",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WDF",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WDB",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1K",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1N",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1V",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1W",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1X",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1Y",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "W1Z",
+    "Name": "MERCEDES-BENZ AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WVW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WVG",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "WV2",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "GERMANY"
+  },
+  {
+    "WMI": "3VW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "1VW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2VW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "4VW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5VW",
+    "Name": "VOLKSWAGEN AG",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1F",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1L",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1M",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2F",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3F",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4F",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5F",
+    "Name": "FORD MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1G1",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1G2",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "1G3",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2G1",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "2G2",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "2G3",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3G1",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "3G2",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "3G3",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4G1",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "4G2",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "4G3",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5G1",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5G2",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "5G3",
+    "Name": "GENERAL MOTORS LLC",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "KMH",
+    "Name": "HYUNDAI MOTOR COMPANY",
+    "Country": "KOREA"
+  },
+  {
+    "WMI": "5N",
+    "Name": "HYUNDAI MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2N",
+    "Name": "HYUNDAI MOTOR COMPANY",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3N",
+    "Name": "HYUNDAI MOTOR COMPANY",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4N",
+    "Name": "HYUNDAI MOTOR COMPANY",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "KNA",
+    "Name": "KIA CORPORATION",
+    "Country": "KOREA"
+  },
+  {
+    "WMI": "5T",
+    "Name": "KIA CORPORATION",
+    "Country": "UNITED STATES (USA)"
+  },
+  {
+    "WMI": "2T",
+    "Name": "KIA CORPORATION",
+    "Country": "CANADA"
+  },
+  {
+    "WMI": "3T",
+    "Name": "KIA CORPORATION",
+    "Country": "MEXICO"
+  },
+  {
+    "WMI": "4T",
+    "Name": "KIA CORPORATION",
+    "Country": "UNITED STATES (USA)"
+  }
+]
